@@ -1,7 +1,7 @@
 # Table of contents
 
 ## Getting Started with Arduino IDE
-- [Windows](https://github.com/wirelesscrafters/Documents/wiki/Getting-started-with-Arduino-IDE)
+- Windows [[EN]](https://github.com/wirelesscrafters/Documents/wiki/Getting-started-with-Arduino-IDE)
 - [MacOS](https://github.com/wirelesscrafters/Documents)
 - [Linux](https://github.com/wirelesscrafters/Documents)
 
